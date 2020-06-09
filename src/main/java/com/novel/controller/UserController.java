@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * user的接口
+ * user的接口层
  * Description: <br/>
  * date: 2020/5/20 14:59<br/>
  *
